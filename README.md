@@ -6,7 +6,8 @@ version: 1.0.0
 
 ### Admin Password : 12345
 
-## Before Runs The project Make sure Create DATABASE and setup 
+### Before Runs The project Make sure Create DATABASE and setup 
+### Also Create directory "upload/file" & "upload/cover"
 
 
 
